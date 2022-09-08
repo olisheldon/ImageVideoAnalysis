@@ -6,10 +6,10 @@
 ## Task 1: Separate cards from groups of images.
 
 
-## Task 2 Use image features to write a feature-based matching algorithm.
+## Task 2: Use image features to write a feature-based matching algorithm.
 
 
-## Task 3 Apply these methods to identify cards from video.
+## Task 3: Apply these methods to identify cards from video.
 
 
 ## Installation
