@@ -3,8 +3,7 @@
 ![](https://github.com/olisheldon/ImageVideoAnalysis/tree/main/output_videos/results-gif-001.gif)
 ![](https://github.com/olisheldon/ImageVideoAnalysis/tree/main/output_images/obj001_049.jpg)
 
-Task outlined in Image_Recognition_and_Tracking_Task.pdf
-Writeup provided in Image_Recognition_and_Tracking_Write.pdf
+Task outlined in Image_Recognition_and_Tracking_Task.pdf, writeup provided in Image_Recognition_and_Tracking_Write.pdf
 
 ## Task 1: Separate cards from groups of images.
 
