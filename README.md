@@ -1,7 +1,6 @@
 # ImageVideoAnalysis
 
-![](https://github.com/olisheldon/ImageVideoAnalysis/tree/main/output_videos/results-gif-001.gif)
-![](https://github.com/olisheldon/ImageVideoAnalysis/tree/main/output_images/obj001_049.jpg)
+![](https://github.com/olisheldon/ImageVideoAnalysis/tree/main/output_videos/results-video-001-screenshot.png)
 
 Task outlined in Image_Recognition_and_Tracking_Task.pdf, writeup provided in Image_Recognition_and_Tracking_Write.pdf
 
